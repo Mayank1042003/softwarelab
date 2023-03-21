@@ -1,0 +1,93 @@
+commit 3f2d1c6143d42e8d74de5a8465e6b5fd8903c9c4
+Author: Mayank1042003 <ms1042003@gmail.com>
+Date:   Tue Mar 21 14:04:39 2023 +0530
+
+    re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..fdc7659
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 job
+
+commit aca6994f81d4e6cea08e61361459fed12f0aa81c
+Author: Mayank1042003 <ms1042003@gmail.com>
+Date:   Tue Mar 21 14:02:04 2023 +0530
+
+    deleting file2
+
+diff --git a/file1.txt b/file1.txt
+index f60c615..f82e7aa 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,4 @@
+ mayank singh CSE
+ tgc 
+ yjhd
++black
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index fdc7659..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 job
+
+commit 392b309de931ed938e3054ef531809949cf2ebc3
+Author: Mayank1042003 <ms1042003@gmail.com>
+Date:   Tue Mar 21 13:59:02 2023 +0530
+
+    added file2
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..fdc7659
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 job
+
+commit a9767984769b401e297348e4a3adf7e6731e682b
+Author: Mayank1042003 <ms1042003@gmail.com>
+Date:   Tue Mar 21 13:53:23 2023 +0530
+
+    added favourite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index f540a85..f60c615 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,3 @@
+ mayank singh CSE
++tgc 
++yjhd
+
+commit 6fb0d83b555b96142f492ee4f1a35c12bcce117e
+Author: Mayank1042003 <ms1042003@gmail.com>
+Date:   Tue Mar 21 13:51:30 2023 +0530
+
+    now has my major
+
+diff --git a/file1.txt b/file1.txt
+index d9b9722..f540a85 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-mayank singh 27339
++mayank singh CSE
+
+commit 838478060419d03fe9d3cb7437902c101084d2b6
+Author: Mayank1042003 <ms1042003@gmail.com>
+Date:   Tue Mar 21 13:39:11 2023 +0530
+
+    my data
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..d9b9722
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++mayank singh 27339
